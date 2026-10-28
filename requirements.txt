@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+pydanticgit add backend/requirements.txt frontend/requirements.txt vercel.json
+openai
